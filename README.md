@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/iOS-13.6-green.svg)](https://developer.apple.com/ios/)
 [![Build Status](https://img.shields.io/badge/build-passing-green)](https://img.shields.io/badge/build-passing-green)
 [![License](https://img.shields.io/github/license/Clean-Swift/CleanStore.svg)](LICENSE)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/mpassosferreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciopassosferreira/)](https://www.linkedin.com/in/marciopassosferreira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciopas@gmail.com)](mailto:marciopas@gmail.com)

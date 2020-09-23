@@ -15,6 +15,24 @@
 		D56702B62518EA47000C1C0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D56702B42518EA47000C1C0C /* LaunchScreen.storyboard */; };
 		D56702C12518EA47000C1C0C /* NavigationViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56702C02518EA47000C1C0C /* NavigationViewsTests.swift */; };
 		D56702CC2518EA47000C1C0C /* NavigationViewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56702CB2518EA47000C1C0C /* NavigationViewsUITests.swift */; };
+		D56703052519A654000C1C0C /* ViewTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56703042519A653000C1C0C /* ViewTwoViewController.swift */; };
+		D567030A2519A674000C1C0C /* ViewTwo.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D56703092519A674000C1C0C /* ViewTwo.storyboard */; };
+		D56703142519B50B000C1C0C /* ViewThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D56703132519B50B000C1C0C /* ViewThreeViewController.swift */; };
+		D56703192519B52A000C1C0C /* ViewThree.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D56703182519B52A000C1C0C /* ViewThree.storyboard */; };
+		D5670325251A763C000C1C0C /* ViewOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5670324251A763C000C1C0C /* ViewOneViewController.swift */; };
+		D567032A251A7655000C1C0C /* ViewOne.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5670329251A7655000C1C0C /* ViewOne.storyboard */; };
+		D5670331251A76A6000C1C0C /* ViewOneModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5670330251A76A6000C1C0C /* ViewOneModalViewController.swift */; };
+		D5670336251A76BA000C1C0C /* ViewOneModal.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5670335251A76BA000C1C0C /* ViewOneModal.storyboard */; };
+		D567033B251A76DB000C1C0C /* ViewOnePushedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D567033A251A76DB000C1C0C /* ViewOnePushedViewController.swift */; };
+		D5670340251A76F0000C1C0C /* ViewOnePushed.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D567033F251A76F0000C1C0C /* ViewOnePushed.storyboard */; };
+		D5670351251A8C56000C1C0C /* ViewTwoModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5670350251A8C56000C1C0C /* ViewTwoModalViewController.swift */; };
+		D5670356251A8C79000C1C0C /* ViewTwoModal.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5670355251A8C79000C1C0C /* ViewTwoModal.storyboard */; };
+		D567035B251A8C9F000C1C0C /* ViewTwoPushedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D567035A251A8C9F000C1C0C /* ViewTwoPushedViewController.swift */; };
+		D5670360251A8CAD000C1C0C /* ViewTwoPushed.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D567035F251A8CAD000C1C0C /* ViewTwoPushed.storyboard */; };
+		D5670368251ABF80000C1C0C /* ViewThreeModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5670367251ABF80000C1C0C /* ViewThreeModalViewController.swift */; };
+		D567036D251ABF96000C1C0C /* ViewThreeModal.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D567036C251ABF96000C1C0C /* ViewThreeModal.storyboard */; };
+		D5670372251ABFB1000C1C0C /* ViewThreePushedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5670371251ABFB1000C1C0C /* ViewThreePushedViewController.swift */; };
+		D5670377251ABFC3000C1C0C /* ViewThreePushed.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5670376251ABFC3000C1C0C /* ViewThreePushed.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +67,24 @@
 		D56702C72518EA47000C1C0C /* NavigationViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56702CB2518EA47000C1C0C /* NavigationViewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewsUITests.swift; sourceTree = "<group>"; };
 		D56702CD2518EA47000C1C0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D56703042519A653000C1C0C /* ViewTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwoViewController.swift; sourceTree = "<group>"; };
+		D56703092519A674000C1C0C /* ViewTwo.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewTwo.storyboard; sourceTree = "<group>"; };
+		D56703132519B50B000C1C0C /* ViewThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThreeViewController.swift; sourceTree = "<group>"; };
+		D56703182519B52A000C1C0C /* ViewThree.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewThree.storyboard; sourceTree = "<group>"; };
+		D5670324251A763C000C1C0C /* ViewOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewOneViewController.swift; sourceTree = "<group>"; };
+		D5670329251A7655000C1C0C /* ViewOne.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewOne.storyboard; sourceTree = "<group>"; };
+		D5670330251A76A6000C1C0C /* ViewOneModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewOneModalViewController.swift; sourceTree = "<group>"; };
+		D5670335251A76BA000C1C0C /* ViewOneModal.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewOneModal.storyboard; sourceTree = "<group>"; };
+		D567033A251A76DB000C1C0C /* ViewOnePushedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewOnePushedViewController.swift; sourceTree = "<group>"; };
+		D567033F251A76F0000C1C0C /* ViewOnePushed.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewOnePushed.storyboard; sourceTree = "<group>"; };
+		D5670350251A8C56000C1C0C /* ViewTwoModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwoModalViewController.swift; sourceTree = "<group>"; };
+		D5670355251A8C79000C1C0C /* ViewTwoModal.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewTwoModal.storyboard; sourceTree = "<group>"; };
+		D567035A251A8C9F000C1C0C /* ViewTwoPushedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwoPushedViewController.swift; sourceTree = "<group>"; };
+		D567035F251A8CAD000C1C0C /* ViewTwoPushed.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewTwoPushed.storyboard; sourceTree = "<group>"; };
+		D5670367251ABF80000C1C0C /* ViewThreeModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThreeModalViewController.swift; sourceTree = "<group>"; };
+		D567036C251ABF96000C1C0C /* ViewThreeModal.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewThreeModal.storyboard; sourceTree = "<group>"; };
+		D5670371251ABFB1000C1C0C /* ViewThreePushedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThreePushedViewController.swift; sourceTree = "<group>"; };
+		D5670376251ABFC3000C1C0C /* ViewThreePushed.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ViewThreePushed.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +135,9 @@
 		D56702A82518EA44000C1C0C /* NavigationViews */ = {
 			isa = PBXGroup;
 			children = (
+				D5670323251A750E000C1C0C /* ViewOne */,
+				D56703102519B2D9000C1C0C /* ViewThree */,
+				D56703032519A5D3000C1C0C /* ViewTwo */,
 				D56702A92518EA44000C1C0C /* AppDelegate.swift */,
 				D56702AB2518EA44000C1C0C /* SceneDelegate.swift */,
 				D56702AD2518EA44000C1C0C /* ViewController.swift */,
@@ -126,6 +165,93 @@
 				D56702CD2518EA47000C1C0C /* Info.plist */,
 			);
 			path = NavigationViewsUITests;
+			sourceTree = "<group>";
+		};
+		D56703032519A5D3000C1C0C /* ViewTwo */ = {
+			isa = PBXGroup;
+			children = (
+				D567030F2519B255000C1C0C /* ViewTwoModal */,
+				D567030E2519B23F000C1C0C /* ViewTwoPushed */,
+				D56703042519A653000C1C0C /* ViewTwoViewController.swift */,
+				D56703092519A674000C1C0C /* ViewTwo.storyboard */,
+			);
+			path = ViewTwo;
+			sourceTree = "<group>";
+		};
+		D567030E2519B23F000C1C0C /* ViewTwoPushed */ = {
+			isa = PBXGroup;
+			children = (
+				D567035A251A8C9F000C1C0C /* ViewTwoPushedViewController.swift */,
+				D567035F251A8CAD000C1C0C /* ViewTwoPushed.storyboard */,
+			);
+			path = ViewTwoPushed;
+			sourceTree = "<group>";
+		};
+		D567030F2519B255000C1C0C /* ViewTwoModal */ = {
+			isa = PBXGroup;
+			children = (
+				D5670350251A8C56000C1C0C /* ViewTwoModalViewController.swift */,
+				D5670355251A8C79000C1C0C /* ViewTwoModal.storyboard */,
+			);
+			path = ViewTwoModal;
+			sourceTree = "<group>";
+		};
+		D56703102519B2D9000C1C0C /* ViewThree */ = {
+			isa = PBXGroup;
+			children = (
+				D56703122519B318000C1C0C /* ViewThreeModal */,
+				D56703112519B2FC000C1C0C /* ViewThreePushed */,
+				D56703132519B50B000C1C0C /* ViewThreeViewController.swift */,
+				D56703182519B52A000C1C0C /* ViewThree.storyboard */,
+			);
+			path = ViewThree;
+			sourceTree = "<group>";
+		};
+		D56703112519B2FC000C1C0C /* ViewThreePushed */ = {
+			isa = PBXGroup;
+			children = (
+				D5670371251ABFB1000C1C0C /* ViewThreePushedViewController.swift */,
+				D5670376251ABFC3000C1C0C /* ViewThreePushed.storyboard */,
+			);
+			path = ViewThreePushed;
+			sourceTree = "<group>";
+		};
+		D56703122519B318000C1C0C /* ViewThreeModal */ = {
+			isa = PBXGroup;
+			children = (
+				D5670367251ABF80000C1C0C /* ViewThreeModalViewController.swift */,
+				D567036C251ABF96000C1C0C /* ViewThreeModal.storyboard */,
+			);
+			path = ViewThreeModal;
+			sourceTree = "<group>";
+		};
+		D5670323251A750E000C1C0C /* ViewOne */ = {
+			isa = PBXGroup;
+			children = (
+				D567032F251A7677000C1C0C /* ViewOnePushed */,
+				D567032E251A7660000C1C0C /* ViewOneModal */,
+				D5670324251A763C000C1C0C /* ViewOneViewController.swift */,
+				D5670329251A7655000C1C0C /* ViewOne.storyboard */,
+			);
+			path = ViewOne;
+			sourceTree = "<group>";
+		};
+		D567032E251A7660000C1C0C /* ViewOneModal */ = {
+			isa = PBXGroup;
+			children = (
+				D5670330251A76A6000C1C0C /* ViewOneModalViewController.swift */,
+				D5670335251A76BA000C1C0C /* ViewOneModal.storyboard */,
+			);
+			path = ViewOneModal;
+			sourceTree = "<group>";
+		};
+		D567032F251A7677000C1C0C /* ViewOnePushed */ = {
+			isa = PBXGroup;
+			children = (
+				D567033A251A76DB000C1C0C /* ViewOnePushedViewController.swift */,
+				D567033F251A76F0000C1C0C /* ViewOnePushed.storyboard */,
+			);
+			path = ViewOnePushed;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +357,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D567030A2519A674000C1C0C /* ViewTwo.storyboard in Resources */,
+				D5670377251ABFC3000C1C0C /* ViewThreePushed.storyboard in Resources */,
 				D56702B62518EA47000C1C0C /* LaunchScreen.storyboard in Resources */,
 				D56702B32518EA47000C1C0C /* Assets.xcassets in Resources */,
+				D5670360251A8CAD000C1C0C /* ViewTwoPushed.storyboard in Resources */,
+				D567032A251A7655000C1C0C /* ViewOne.storyboard in Resources */,
+				D567036D251ABF96000C1C0C /* ViewThreeModal.storyboard in Resources */,
+				D5670356251A8C79000C1C0C /* ViewTwoModal.storyboard in Resources */,
 				D56702B12518EA44000C1C0C /* Main.storyboard in Resources */,
+				D56703192519B52A000C1C0C /* ViewThree.storyboard in Resources */,
+				D5670340251A76F0000C1C0C /* ViewOnePushed.storyboard in Resources */,
+				D5670336251A76BA000C1C0C /* ViewOneModal.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +393,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5670351251A8C56000C1C0C /* ViewTwoModalViewController.swift in Sources */,
+				D5670325251A763C000C1C0C /* ViewOneViewController.swift in Sources */,
 				D56702AE2518EA44000C1C0C /* ViewController.swift in Sources */,
+				D56703142519B50B000C1C0C /* ViewThreeViewController.swift in Sources */,
+				D5670368251ABF80000C1C0C /* ViewThreeModalViewController.swift in Sources */,
+				D5670372251ABFB1000C1C0C /* ViewThreePushedViewController.swift in Sources */,
+				D567033B251A76DB000C1C0C /* ViewOnePushedViewController.swift in Sources */,
+				D567035B251A8C9F000C1C0C /* ViewTwoPushedViewController.swift in Sources */,
+				D5670331251A76A6000C1C0C /* ViewOneModalViewController.swift in Sources */,
 				D56702AA2518EA44000C1C0C /* AppDelegate.swift in Sources */,
+				D56703052519A654000C1C0C /* ViewTwoViewController.swift in Sources */,
 				D56702AC2518EA44000C1C0C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

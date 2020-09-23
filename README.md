@@ -23,7 +23,7 @@
     <a href="https://github.com/mpassosferreira/NavigationViews/issues">Request Feature</a>
     <br />
     <br />
-    <img src="images/video.gif"  width="200" height="500">
+    <img src="images/video.gif"  width="250" height="450">
   </p>
  </p>
   
